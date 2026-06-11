@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Output files (通常不需要上传)
+output/
+
+# Model files (如果有)
+*.pth
+*.pt
+*.h5
+*.pkl
